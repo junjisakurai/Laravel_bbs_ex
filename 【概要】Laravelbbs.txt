@@ -1,0 +1,8 @@
+【入門】Laravelチュートリアル ? 掲示板を作成してみよう
+https://blog.hiroyuki90.com/articles/laravel-bbs/
+
+Laravel8 テスト
+https://qiita.com/hirotototototo/items/689947637042cf5c3284
+
+
+https://stackoverflow.com/questions/63816395/laravel-call-to-undefined-function-database-seeders-factory

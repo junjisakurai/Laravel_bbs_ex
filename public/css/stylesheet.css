@@ -1,0 +1,14 @@
+.both-end-parent {
+  /* 要素を両端に揃える https://watsunblog.com/csssideside/#floatleft */
+  display:flex;
+  justify-content:space-between;
+}
+/* 画像アップロードddエリア */
+#file_drag_drop_area {
+  border:3px #000000 dashed;
+  padding:7px;
+}
+/* 投稿新規作成 */
+#btn_store {
+  margin-bottom:15px;
+}
