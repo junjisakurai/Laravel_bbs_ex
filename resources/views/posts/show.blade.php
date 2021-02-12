@@ -4,6 +4,7 @@
     <div class="container mt-4">
         <div class="border p-4">
             <div class="mb-4 text-right">
+                <button class="btn btn-primary" id="square_btn" onClick="history.back()">戻る</button>
                 <a class="btn btn-primary" href="{{ route('posts.edit', ['post' => $post]) }}">
                     編集する
                 </a>
