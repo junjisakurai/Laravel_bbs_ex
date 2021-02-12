@@ -22,6 +22,7 @@
             },
             "require": {
                 "php": "^7.0|^8.0",
+                "fakerphp/faker": "^1.9.1",
                 "symfony/http-foundation": "~2.7|~3.0|~4.0|~5.0",
                 "symfony/http-kernel": "~2.7|~3.0|~4.0|~5.0"
             },
@@ -986,7 +987,8 @@
                 "pda/pheanstalk": "^4.0",
                 "phpunit/phpunit": "^8.5.8|^9.3.3",
                 "predis/predis": "^1.1.1",
-                "symfony/cache": "^5.1.4"
+                "symfony/cache": "^5.1.4",
+                "fakerphp/faker": "^1.9.1"
             },
             "suggest": {
                 "aws/aws-sdk-php": "Required to use the SQS queue driver, DynamoDb failed job storage and SES mail driver (^3.155).",
