@@ -8,7 +8,8 @@
 【入門】Laravelチュートリアル ? 掲示板を作成してみよう<br>
 https://blog.hiroyuki90.com/articles/laravel-bbs/<br>
 <br>
-追加した機能<br>
+追加した機能・変更点<br>
+・
 ・コメントの編集機能<br>
 ・コメントの削除機能<br>
 ・画像アップロード機能<br>
@@ -21,7 +22,7 @@ https://laravel-bbs-ex.herokuapp.com/
 <br>
 ■ 画面構成
 <br>
-![ポートフォリオ画面](https://user-images.githubusercontent.com/54252926/107935668-0d75da80-6fc5-11eb-891b-0deb6aae80ae.jpg)
+![ポートフォリオ画面2](https://user-images.githubusercontent.com/54252926/107936749-57ab8b80-6fc6-11eb-9923-183e66ae6c1b.jpg)
 <br>
 ■ ファイル構成
 <pre>
