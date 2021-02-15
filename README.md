@@ -1,18 +1,17 @@
-【入門】Laravelチュートリアル ? 掲示板を作成してみよう
-https://blog.hiroyuki90.com/articles/laravel-bbs/
-
-# RestaurantApp2
-レストラン料理注文WEBアプリ
+# Laravel_bbs
+掲示板
 <br>
 <br>
 ■ 概要<br>
-progateで作成する料理注文サイトにいくつか機能追加したモノです。<br>
+この掲示板アプリは下記のサイトのモノに機能追加したモノです。<br>
+<br>
+【入門】Laravelチュートリアル ? 掲示板を作成してみよう<br>
+https://blog.hiroyuki90.com/articles/laravel-bbs/<br>
 <br>
 追加した機能<br>
-・データをDB化(ストアドプロシージャを使ったDB操作)<br>
-・レビューの星評価<br>
-・レビュー評価のチャート表示<br>
-・レビューを投稿・編集・削除<br>
+・コメントの編集機能<br>
+・コメントの削除機能<br>
+・画像アップロード機能<br>
 <br>
 <br>
 ■ VIEW  (サーバー：Heroku　DB：ClearDB MySQL)<br>
