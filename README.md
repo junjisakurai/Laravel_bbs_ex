@@ -15,13 +15,13 @@ https://blog.hiroyuki90.com/articles/laravel-bbs/<br>
 <br>
 <br>
 ■ VIEW  (サーバー：Heroku　DB：ClearDB MySQL)<br>
-https://restaurant-app-rdb2-junji.herokuapp.com/
+https://laravel-bbs-ex.herokuapp.com/
 <br>
 <br>
 <br>
 ■ 画面構成
 <br>
-![ポートフォリオ画面-01](https://user-images.githubusercontent.com/54252926/107885693-1f149f00-6f3f-11eb-9f7c-adf837d1f287.jpg)
+![ポートフォリオ画面](https://user-images.githubusercontent.com/54252926/107935668-0d75da80-6fc5-11eb-891b-0deb6aae80ae.jpg)
 <br>
 ■ ファイル構成
 <pre>
