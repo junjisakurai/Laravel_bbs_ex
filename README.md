@@ -9,7 +9,7 @@
 https://blog.hiroyuki90.com/articles/laravel-bbs/<br>
 <br>
 追加した機能・変更点<br>
-・Laravel 5.7 → Laravel 8.27
+・Laravel 5.7 → Laravel 8.27<br>
 ・コメントの編集機能<br>
 ・コメントの削除機能<br>
 ・画像アップロード機能<br>
@@ -24,58 +24,3 @@ https://laravel-bbs-ex.herokuapp.com/
 <br>
 ![ポートフォリオ画面2](https://user-images.githubusercontent.com/54252926/107937421-3b5c1e80-6fc7-11eb-99e2-14df04926a0f.jpg)
 <br>
-■ ファイル構成
-<pre>
-●画面クラス ------------------------------------
-トップ画面
-index.php
-
-レビュー閲覧画面
-show.php
-
-レビュー投稿・編集画面
-review_edit.php
-
-注文内容確認画面
-confirm.php
-
-★スタイルシート ----------------
-stylesheet.css
-
-■topへ戻る機能  ----------------
-index.js
-■画面遷移機能   ----------------
-main.js
-
-■レビュー      ----------------
-レビュー表示機能
-review_item.php
-
-レビューDB登録機能
-review_confirm.php
-
-評価機能_チェック機能
-review_edit.js
-
-■チャート      -----------------
-チャート描画スクリプト
-Chart.js
-チャートデータ作成
-chartData.php
-
-●DB関連    ----------------------------------------
-■SP (ストアドプロシージャ)
-sp_menu   (メニューデータ関連のSP)
-sp_review (レビューデータ関連のSP)
-
-■SP呼出 (ストアドプロシージャ呼出)
-call_sp_menu.php   (メニューSP呼出)
-call_sp_review.php (レビューSP呼出)
-
-●データベース[Mysql]   ---------------------
-menu_m  (メニューマスタ)
-drink   (ドリンクテーブル)
-food    (フードテーブル)
-user_m  (ユーザーマスタ)
-review  (レビューテーブル)
-</pre>
